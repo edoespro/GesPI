@@ -142,4 +142,3 @@ cat > app/proguard-rules.pro << 'EOF'
 # ProGuard rules for GesPI
 EOF
 
-iniciales configurados para Kotlin 2.2.21, AGP 8.5.0, minSdk 24, targetSdk 35 y Jetpack Compose habilitado.
