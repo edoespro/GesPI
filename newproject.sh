@@ -142,4 +142,4 @@ cat > app/proguard-rules.pro << 'EOF'
 # ProGuard rules for GesPI
 EOF
 
-Este script crea la estructura completa del proyecto GesPI, con los archivos iniciales configurados para Kotlin 2.2.21, AGP 8.5.0, minSdk 24, targetSdk 35 y Jetpack Compose habilitado.
+iniciales configurados para Kotlin 2.2.21, AGP 8.5.0, minSdk 24, targetSdk 35 y Jetpack Compose habilitado.
