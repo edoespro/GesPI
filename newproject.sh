@@ -1,5 +1,6 @@
 Script de inicialización del proyecto GesPI
 Este script crea la estructura de carpetas y archivos iniciales para l
+
 #!/bin/bash
 
 # Crear estructura de carpetas
