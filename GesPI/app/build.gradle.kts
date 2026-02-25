@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.gespi.app"
+    namespace = "com.gespi.app"l
     compileSdk = 35
 
     defaultConfig {
