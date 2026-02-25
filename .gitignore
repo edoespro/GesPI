@@ -1,0 +1,22 @@
+#Gradle
+gradle/ /build/ /app/build/
+
+#Android Studio / IntelliJ
+
+.idea/ *.iml
+
+#Archivos locales
+
+local.properties
+
+#Logs y temporales
+
+*.log *.tmp *.swp
+
+#Binarios
+
+*.apk *.aab *.dex
+
+#Otros
+
+*.class *.jar *.war *.ear *.sh
