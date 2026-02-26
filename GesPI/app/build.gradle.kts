@@ -4,7 +4,8 @@ plugins {
     id("org.jetbrains.kotlin.plugin.compose") version "2.0.0" 
     }
 
-android { namespace = "com.gespi.app" compileSdk = 35
+android {
+     namespace = "com.gespi.app" compileSdk = 35
 
 defaultConfig {
     applicationId = "com.gespi.app"
