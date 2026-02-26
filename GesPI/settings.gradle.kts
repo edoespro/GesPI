@@ -8,6 +8,7 @@ pluginManagement {
 
 dependencyResolutionManagement {
      repositoriesMode.set(
-        RepositoriesMode.FAIL_ON_PROJECT_REPOS) repositories { google() mavenCentral() } }
+        RepositoriesMode.FAIL_ON_PROJECT_REPOS) repositories {
+             google() mavenCentral() } }
 
 rootProject.name = "GesPI" include(":app")
