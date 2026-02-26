@@ -14,4 +14,5 @@ dependencyResolutionManagement {
                }
                 }
 
-rootProject.name = "GesPI" include(":app")
+rootProject.name = "GesPI" 
+include(":app")
