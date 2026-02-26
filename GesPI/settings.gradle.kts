@@ -11,6 +11,7 @@ dependencyResolutionManagement {
         RepositoriesMode.FAIL_ON_PROJECT_REPOS) repositories {
              google()
               mavenCentral()
-               } }
+               }
+                }
 
 rootProject.name = "GesPI" include(":app")
