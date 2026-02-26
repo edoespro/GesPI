@@ -1,7 +1,8 @@
 pluginManagement {
      repositories {
          google()
-          grad6lePluginPortal() mavenCentral() } }
+          grad6lePluginPortal()
+           mavenCentral() } }
 
 dependencyResolutionManagement { repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS) repositories { google() mavenCentral() } }
 
