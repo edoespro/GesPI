@@ -7,7 +7,7 @@
         android:theme="@style/Theme.Material3.DayNight.NoActionBar">
         <activity android:name=".MainActivity">
             <intent-filter>
-    7           <action android:name="android.intent.action.MAIN" />
+    7          <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
