@@ -39,3 +39,4 @@ dependencies {
 
     androidTestImplementation("androidx.compose.ui:ui-test-junit4:1.7.0")
 }
+
